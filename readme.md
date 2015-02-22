@@ -1,1 +1,1 @@
-# KumoZone.github.io
+# kumozone.github.io
